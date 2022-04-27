@@ -18,15 +18,15 @@ The company Hackers Poulette ™ sells Raspberry Pi accessory kits to build your
 
 # Graphic Guideline #
 
-![Graphic Guideline](https://media.discordapp.net/attachments/960446517875970048/961566229552857118/Capture_decran_2022-04-07_a_11.58.17.png?width=2160&height=582)
+TBC
 
 # Project Management #
 
-![Project management used with Trello](https://cdn.discordapp.com/attachments/960446517875970048/961550614616244254/Capture_decran_2022-04-07_a_10.53.45.png)
+TBC
 
 # URL #
 
-https://mara85kh.github.io/AllezCine/
+TBC
 
 # Working in IT Be Like #
 
