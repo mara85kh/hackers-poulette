@@ -16,13 +16,13 @@ The company Hackers Poulette ™ sells Raspberry Pi accessory kits to build your
 
  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-# Graphic Guideline #
+# Mockup#
 
-TBC
+![](assets/img/mockup.png)
 
 # Project Management #
 
-TBC
+![](assets/img/Trello.png)
 
 # URL #
 
